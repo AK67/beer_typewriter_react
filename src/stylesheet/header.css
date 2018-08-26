@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    background-color:white;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+
+  .headerH1 {
+    font-size: 42px;
+    margin-top: 2%;
+    line-height: 30px;
+    font-weight: 100;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .headerImg{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+  }
+
+ 
+  
+  
+ 
+  

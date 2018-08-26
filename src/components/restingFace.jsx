@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../stylesheet/restingFace.css';
+
 class RestingFace extends Component{
 
     render(){
