@@ -1,9 +1,10 @@
 .blog{
     text-align: center;
-    
+
 }
 .blog p{
-    text-align: center;
+    text-align: justify;
+     text-justify: inter-word;
     font-family: 'Prompt', sans-serif;
     font-size: 17px;
 }

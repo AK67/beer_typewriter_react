@@ -4,14 +4,9 @@ import '../stylesheet/restingFace.css';
 class RestingFace extends Component{
 
     render(){
-        return( <html>
-            <head>
-            
-             <title>BeerTypewriter</title>
-                </head>
-            
-            <body>
-            <div class="container">
+        return( 
+          
+            <div class="container1">
              <div class="container__item landing-page-container">
               <div class="content__wrapper">
             
@@ -63,8 +58,7 @@ class RestingFace extends Component{
             
             </div>
             
-            </body>
-            </html>);
+            );
     }
 }
 
